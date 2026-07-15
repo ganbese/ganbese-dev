@@ -1,0 +1,19 @@
+/* Style the entire page background and font */
+body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Style your main heading title */
+h1 {
+    color: #1877f2;
+    background-color: white;
+    padding: 30px 50px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
